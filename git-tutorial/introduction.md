@@ -98,14 +98,10 @@
 	- ~~機械学習~~<br>
 <br>
 - 好きな人<br>
-	- Norbert Wiener<br>
-	https://en.wikipedia.org/wiki/Norbert_Wiener
-	- Peter Mann Winkler<br>
-	https://en.wikipedia.org/wiki/Peter_Winkler
-	- Alan Mathison Turing<br>
-	https://en.wikipedia.org/wiki/Alan_Turing
-	- 細田 守<br>
-	https://ja.wikipedia.org/wiki/%E7%B4%B0%E7%94%B0%E5%AE%88
+	- [Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener)
+	- [Peter Mann Winkler](https://en.wikipedia.org/wiki/Peter_Winkler)
+	- [Alan Mathison Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+	- [細田 守](https://ja.wikipedia.org/wiki/%E7%B4%B0%E7%94%B0%E5%AE%88)
 ### MatsudaChikara
 
 ### terehonooni
